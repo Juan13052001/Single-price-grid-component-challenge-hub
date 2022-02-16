@@ -37,8 +37,8 @@ MOBILE
 ![](/screenshot-mobile.jpeg)
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/Juan13052001/Single-price-grid-component-challenge-hub)
+- Live Site URL: [Live Site](https://juan13052001.github.io/Single-price-grid-component-challenge-hub/)
 
 ## My process
 
@@ -71,4 +71,4 @@ I learned how to use the grid-template-tasks and modify them to fit the screen s
 ### Continued development
 
 ## Author
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Juan13052001](https://www.frontendmentor.io/profile/Juan13052001)
